@@ -1,1 +1,1 @@
-print("mert")
+print("m")

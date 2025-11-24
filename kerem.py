@@ -1,1 +1,1 @@
-print("kerem baba")
+print("kerem duymaz")
